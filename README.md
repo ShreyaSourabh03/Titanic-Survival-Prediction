@@ -34,27 +34,6 @@ Core features used:
    Typically dropped/noisy: Name, Ticket, Cabin (can derive features)
 
 
-# 📁 Project Structure
-
-
-titanic-ml/
-
-├─ Titanic-Project.ipynb  
-                          # Main notebook: EDA → preprocessing → modeling → outputs
-├─ data/
-
-│  ├─ train.csv
-
-│  └─ test.csv
-
-├─ outputs/
-
-│  └─ submission.csv
-                                # Generated predictions (optional)
-├─ requirements.txt  
-                                # Dependencies (optional)
-└─ README.md                    # This file
-
 # 🔎 Methodology
 
 -> Data Loading & Sanity Checks
