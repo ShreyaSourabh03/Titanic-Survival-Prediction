@@ -38,13 +38,21 @@ Core features used:
 
 
 titanic-ml/
-├─ Titanic-Project.ipynb        # Main notebook: EDA → preprocessing → modeling → outputs
+
+├─ Titanic-Project.ipynb  
+                          # Main notebook: EDA → preprocessing → modeling → outputs
 ├─ data/
+
 │  ├─ train.csv
+
 │  └─ test.csv
+
 ├─ outputs/
-│  └─ submission.csv            # Generated predictions (optional)
-├─ requirements.txt             # Dependencies (optional)
+
+│  └─ submission.csv
+                                # Generated predictions (optional)
+├─ requirements.txt  
+                                # Dependencies (optional)
 └─ README.md                    # This file
 
 # 🔎 Methodology
