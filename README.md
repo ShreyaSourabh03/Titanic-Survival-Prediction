@@ -5,6 +5,7 @@ A polished, hands-on machine learning pipeline that predicts passenger survival 
 ✨ Highlights
 
 1.) End‑to‑end workflow: load → preprocess → engineer → train → evaluate → predict
+
 2.) Clean handling of missing values and categorical encoding without leakage
 3.)Baseline and improved models with accuracy and F1 tracking
 4.)Reproducible notebook structure and exportable predictions
