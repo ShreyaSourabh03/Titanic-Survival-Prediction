@@ -1,8 +1,8 @@
- 🚢 Titanic Survival Prediction — End‑to‑End ML Project
+#  🚢 Titanic Survival Prediction — End‑to‑End ML Project
 
 A polished, hands-on machine learning pipeline that predicts passenger survival on the Titanic using the classic Kaggle dataset. Designed for clarity, reproducibility, and fast iteration—with clean preprocessing, focused feature engineering, and model evaluation.
 
-✨ Highlights
+# ✨ Highlights
 
 1.) End‑to‑end workflow: load → preprocess → engineer → train → evaluate → predict
 
@@ -12,14 +12,14 @@ A polished, hands-on machine learning pipeline that predicts passenger survival 
 
 4.)Reproducible notebook structure and exportable predictions
 
-🧰 Tech Stack
+# 🧰 Tech Stack
 
 Language: Python 3.x
 
 Libraries: NumPy, pandas, scikit‑learn, seaborn, matplotlib
 
 
-📦 Dataset
+# 📦 Dataset
 
 Source: Kaggle Titanic (train.csv, test.csv)
 
@@ -34,7 +34,7 @@ Core features used:
    Typically dropped/noisy: Name, Ticket, Cabin (can derive features)
 
 
-📁 Project Structure
+# 📁 Project Structure
 
 
 titanic-ml/
@@ -47,7 +47,7 @@ titanic-ml/
 ├─ requirements.txt             # Dependencies (optional)
 └─ README.md                    # This file
 
-#🔎 Methodology
+# 🔎 Methodology
 
 -> Data Loading & Sanity Checks
 
@@ -90,7 +90,7 @@ Predict on test set
 
 Save submission.csv with PassengerId and Survived
 
-#📊 Metrics & Expectations
+# 📊 Metrics & Expectations
 
 Primary: Accuracy
 
@@ -105,7 +105,7 @@ Tree‑based models → higher potential with tuned hyperparams
 Note: Exact scores vary by features, seeds, and preprocessing choices; rely on CV for stability.
 Exported predictions align PassengerId correctly with Survived
 
-👩💻 Author
+# 👩💻 Author
 Shreya Sourabh
 
 Interests: Machine Learning, Data Science, applied modeling, deployment
